@@ -47,5 +47,3 @@ Select a module by entering its number. Follow the prompts to input your target.
 ## Notes
 
 This tool is for educational and authorized security research only. The creator is not responsible for any misuse.
-# Osint
-# Osint
