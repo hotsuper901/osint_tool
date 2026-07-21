@@ -28,11 +28,7 @@ A modular OSINT (Open Source Intelligence) toolkit with 8 modules for informatio
 ## Installation
 
 ```bash
-git clone
-https://github.com/hotsuper901/osint_tool.git
-cd osint_tool
-pip install -r requirements.txt
-python3 main.py
+git clone https://github.com/hotsuper901/osint_tool.git && cd osint_tool && pip install -r requirements.txt && python3 main.py
 ```
 
 ## Usage
